@@ -18,5 +18,8 @@
     "homepage": "https://github.com/schipiga/yanaf#readme",
     "devDependencies": {
         "typescript": "^5.8.3"
+    },
+    "dependencies": {
+        "zod": "^3.24.4"
     }
 }
